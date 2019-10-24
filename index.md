@@ -38,7 +38,7 @@ title: Matthew Spelchak's Resume
 ## EDUCATION
 
 ### **University of Manitoba**
-`September 2015 - • Present`
+`2015 - Present`
 **B.Sc. Computer Science Major (Co-op)**  
 **April 2020** expected graduation date  
 **GPA: 4.17/4.5**
@@ -46,7 +46,7 @@ title: Matthew Spelchak's Resume
 ## WORK EXPERIENCE
 
 ### **SOFTWARE DEVELOPER**  
-`MAY 2019 - • AUGUST 2019 (CO-OP)`
+`MAY 2019 - AUGUST 2019`
 *Priceline Partner Network*
 
 *Using modern and proven web frameworks, designed and maintained
@@ -61,9 +61,7 @@ knowledge where possible.*
   in-development code;
 
 ### **SOFTWARE DEVELOPER**  
-`JANUARY 2019 - • PRESENT (PART-TIME)  
-MAY 2018 - • AUGUST 2018 (PART-TIME)  
-JANUARY 2018  - • APRIL 2018 (CO-OP)`
+`2018 - 2019 intermittently`
 *National Microbiology Lab*  
 
 *DevOps specialist in the bioinformatics lab, automating deployment of
@@ -80,7 +78,7 @@ performance and reliability.*
   environments  and the systems in use
 
 ### **SOFWARE DEVELOPER**  
-`SEPTEMBER 2018  - • DECEMBER 2018 (CO-OP)`
+`SEPTEMBER 2018  - DECEMBER 2018`
 *Invenia Technical Computing Corporation*  
 
 *Utilizing various AWS services, migrated an existing high-volume,
