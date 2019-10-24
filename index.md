@@ -1,91 +1,124 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matthew Spelchak's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Matthew Spelchak
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="spelcham@myumanitoba.ca">spelcham@myumanitoba.ca</a>
+| +1 (204) 230-8910
+| <a href="github.com/tizzir">github.com/tizzir</a>
 </div>
 
+## TECHNICAL SKILLS
 
-## Currently
+### **PROGRAMMING LANGUAGES**
 
-Standing on the shoulders of giants
+- C/C++
+- GLSL
+- Java
+- JS
+- Puppet
+- Python
 
-### Specialized in
+### **OPERATING SYSTEMS**
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Linux
+- MacOS
+
+### **TOOLS AND SERVICES**
+
+- AWS  
+  **AWS experience includes**:  
+  CloudFormation, Lambda, API Gateway, Step Functions, SQS
+- GIT  
+  **Git experience includes**:  
+  branching, merging, rebasing, cherry-picking
+
+## EDUCATION
+
+**B.Sc. Computer Science Major (Co-op)**, University of Manitoba  
+September 2015 - Present  
+**April 2020** expected graduation date  
+**GPA: 4.17/4.5**
+
+## WORK EXPERIENCE
+
+### **SOFTWARE DEVELOPER**  
+*Priceline Partner Network*  
+**MAY 2019 - AUGUST 2019 (CO-OP)**
+
+*Using modern and proven web frameworks, designed and maintained
+various aspects of a whitelabel product, while applying DevOps
+knowledge where possible.*
+
+- **Implemented modern and reactive design** for new flight upgrade
+  whitelabel feature
+- **Hosted lunch n’ learn** regarding newly-introduced development
+  environment
+- **Ensured strict adherence** to coding standards for current and
+  in-development code
+
+### **SOFTWARE DEVELOPER**  
+*National Microbiology Lab*  
+**JANUARY 2019 - PRESENT (PART-TIME)  
+MAY 2018 - AUGUST 2018 (PART-TIME)  
+JANUARY 2018  - APRIL 2018 (CO-OP)**
+
+*DevOps specialist in the bioinformatics lab, automating deployment of
+data science platforms and general-purpose systems,  with a focus on
+performance and reliability.*
+
+- **Designed a system** to automatically deploy and manage production-grade
+  Galaxy data analysis instances, using Puppet and Ansible
+- **Updated job-mapping functionality** in Galaxy to allow for an arbitrary
+  number of user-defined priorities when assigning job destinations
+- **Wrote Puppet modules** to automatically install and configure all tools
+  and resources required for mobile analysis workstations
+- **Assisted new co-ops**  in learning their Linux-based development
+  environments  and the systems in use
+
+### **SOFWARE DEVELOPER**  
+*Invenia Technical Computing Corporation*  
+**SEPTEMBER 2018  - DECEMBER 2018 (CO-OP)**
+
+*Utilizing various AWS services, migrated an existing high-volume,
+reactive, and automated data scraper to a serverless architecture.*
+
+- **Brainstormed, designed, built, and documented** a serverless and
+  automated data scraping tool, as well as an accompanying API and
+deployment program
+- **Thoroughly researched, tested, and reported on** a variety of
+  architecture diagramming  tools for company-wide use
+- **Diagrammed top- and low-level views** of the serverless architecture
+  being built
+
+## VOLUNTEER EXPERIENCE
+
+### **COORDINATOR AND PANEL MODERATOR** -- *Feminist Focus Conference*  
+**APRIL 2015**
+
+- **Carried conference ideas** from brainstorming phase to execution
+- **Moderated panel discussion** on the topic of gender identity
+
+## PROJECTS
 
 
-### Research interests
+### **THE PERFECTLY OPTIMIZED LINUX GAMING CONFIG**  
+*Personal project*  
+**ONGOING**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+*Using modern and proven web frameworks, designed and maintained
+various aspects of a whitelabel product, while applying DevOps
+knowledge where possible.*
 
+- **Optimizing an Arch Linux install** for minimum latency and frame
+  time using everything from config tweaks to custom scheduling rules and
+  kernels
 
-## Education
+### **VR NOTIfICATIONS**  
+*Human Computer Interaction II Group Project*  
+**WINTER 2019**
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- **Designed intuitive interface** proof of concept allowing users to
+  view and interact with notifications while in a virtual reality environment
