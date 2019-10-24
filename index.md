@@ -46,7 +46,7 @@ title: Matthew Spelchak's Resume
 ## WORK EXPERIENCE
 
 ### **SOFTWARE DEVELOPER**  
-`**MAY 2019 - AUGUST 2019 (CO-OP)**`
+`MAY 2019 - AUGUST 2019 (CO-OP)`
 *Priceline Partner Network*
 
 *Using modern and proven web frameworks, designed and maintained
