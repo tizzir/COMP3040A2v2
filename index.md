@@ -28,25 +28,26 @@ title: Matthew Spelchak's Resume
 
 ### **TOOLS AND SERVICES**
 
-- AWS  
-  **AWS experience includes**:  
+- Amazon Web Services  
+  *AWS experience includes*:  
   CloudFormation, Lambda, API Gateway, Step Functions, SQS
-- GIT  
-  **Git experience includes**:  
+- Git  
+  *Git experience includes*:  
   branching, merging, rebasing, cherry-picking
 
 ## EDUCATION
 
-**B.Sc. Computer Science Major (Co-op)**, University of Manitoba  
-September 2015 - Present  
+### University of Manitoba
+`September 2015 - Present`
+**B.Sc. Computer Science Major (Co-op)**  
 **April 2020** expected graduation date  
 **GPA: 4.17/4.5**
 
 ## WORK EXPERIENCE
 
 ### **SOFTWARE DEVELOPER**  
-*Priceline Partner Network*  
-**MAY 2019 - AUGUST 2019 (CO-OP)**
+`**MAY 2019 - AUGUST 2019 (CO-OP)**`
+*Priceline Partner Network*
 
 *Using modern and proven web frameworks, designed and maintained
 various aspects of a whitelabel product, while applying DevOps
@@ -60,10 +61,10 @@ knowledge where possible.*
   in-development code
 
 ### **SOFTWARE DEVELOPER**  
-*National Microbiology Lab*  
-**JANUARY 2019 - PRESENT (PART-TIME)  
+`JANUARY 2019 - PRESENT (PART-TIME)  
 MAY 2018 - AUGUST 2018 (PART-TIME)  
-JANUARY 2018  - APRIL 2018 (CO-OP)**
+JANUARY 2018  - APRIL 2018 (CO-OP)`
+*National Microbiology Lab*  
 
 *DevOps specialist in the bioinformatics lab, automating deployment of
 data science platforms and general-purpose systems,  with a focus on
@@ -79,8 +80,8 @@ performance and reliability.*
   environments  and the systems in use
 
 ### **SOFWARE DEVELOPER**  
+`SEPTEMBER 2018  - DECEMBER 2018 (CO-OP)`
 *Invenia Technical Computing Corporation*  
-**SEPTEMBER 2018  - DECEMBER 2018 (CO-OP)**
 
 *Utilizing various AWS services, migrated an existing high-volume,
 reactive, and automated data scraper to a serverless architecture.*
@@ -95,8 +96,9 @@ deployment program
 
 ## VOLUNTEER EXPERIENCE
 
-### **COORDINATOR AND PANEL MODERATOR** -- *Feminist Focus Conference*  
-**APRIL 2015**
+### **COORDINATOR AND PANEL MODERATOR**
+`APRIL 2015`
+*Feminist Focus Conference*
 
 - **Carried conference ideas** from brainstorming phase to execution
 - **Moderated panel discussion** on the topic of gender identity
@@ -105,8 +107,8 @@ deployment program
 
 
 ### **THE PERFECTLY OPTIMIZED LINUX GAMING CONFIG**  
+`ONGOING`
 *Personal project*  
-**ONGOING**
 
 *Using modern and proven web frameworks, designed and maintained
 various aspects of a whitelabel product, while applying DevOps
@@ -117,8 +119,8 @@ knowledge where possible.*
   kernels
 
 ### **VR NOTIfICATIONS**  
+`WINTER 2019`
 *Human Computer Interaction II Group Project*  
-**WINTER 2019**
 
 - **Designed intuitive interface** proof of concept allowing users to
   view and interact with notifications while in a virtual reality environment
