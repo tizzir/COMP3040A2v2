@@ -5,9 +5,9 @@ title: Matthew Spelchak's Resume
 # Matthew Spelchak
 
 <div id="webaddress">
-<a href="spelcham@myumanitoba.ca">spelcham@myumanitoba.ca</a>
+<a href="mailto:spelcham@myumanitoba.ca">spelcham@myumanitoba.ca</a>
 | +1 (204) 230-8910
-| <a href="github.com/tizzir">github.com/tizzir</a>
+| <a href="https://www.github.com/tizzir">github.com/tizzir</a>
 </div>
 
 ## TECHNICAL SKILLS
