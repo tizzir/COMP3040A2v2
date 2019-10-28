@@ -10,6 +10,9 @@ the process.
  > This guide is intended for audiences who are already familiar with Markdown
  > and Git. If you find that some of this guide is going over your head, you
  > might want to check out some info on [Git]() and [Markdown]().
+ > 
+
+## Prerequisites
 
 ## Instructions
 
@@ -46,7 +49,19 @@ most cases. The steps below outline this process.
      Note that not all markdown markers work the same way in this template as
      they do in typical markdown interepreters. Follow the markup patterns used
      in the sample template when adding your own content. The most important
-     markers and their use is displayed below:
+     markers and their use can be seen below.  
+     **Note**: ensure that the follwing code snippet remains at the top of
+     `index.md`:
+```
+---
+layout: cv
+title: Matthew Spelchak's Resume
+---
+```
+
+#### Template markings
+
+
 
 ### Creating the repo
 
@@ -55,3 +70,19 @@ most cases. The steps below outline this process.
 ### Putting on the Final Touches
 
 ## FAQ
+
+## Further Reading
+
+## Contributing
+
+## License
+
+## Acknowledgments
+
+I'd like that thank [elipapa](https://github.com/elipapa) for his
+[markdown-cv](https://github.com/elipapa/markdown-cv) template. It's clean and
+easy to dump your own information into, while still offering some flexibility.
+
+Additionally, I'd like to thank [Enosh Anwar](https://github.com/EnoshAnwar)
+and Louis O'connor for proofreading this readme.
+their invaluable 
