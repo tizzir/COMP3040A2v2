@@ -61,7 +61,7 @@ knowledge where possible.*
   in-development code;
 
 ### **SOFTWARE DEVELOPER**  
-`2018 - 2019 intermittently`
+`2018 - 2019`
 *National Microbiology Lab*  
 
 *DevOps specialist in the bioinformatics lab, automating deployment of
