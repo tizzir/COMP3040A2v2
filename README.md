@@ -147,4 +147,3 @@ easy to dump your own information into, while still offering some flexibility.
 
 Additionally, I'd like to thank [Enosh Anwar](https://github.com/EnoshAnwar)
 and Louis O'connor for proofreading this readme.
-their invaluable 
