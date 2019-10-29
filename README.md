@@ -56,9 +56,9 @@ most cases. The steps below outline this process.
 1. Open the sample resume `index.md` in the root of the repo.
 2. Replace the sample contents with the contents of your own resume.  
      Note that not all Markdown markers work the same way in this template as
-     they do in typical Markdown interepreters. Follow the markup patterns used
+     they do in typical Markdown interpreters. Follow the markup patterns used
      in the sample template when adding your own content.  
-     **Note**: ensure that the follwing code snippet remains at the top of
+     **Note**: ensure that the following code snippet remains at the top of
      `index.md`:
 ```
 ---
@@ -84,8 +84,8 @@ a static site using GitHub Pages.
 ### Putting on the Final Touches
 
 The final steps in this process involve viewing your resume as it is hosted,
-and making any fixes or monifications as necessary, and then pushing the
-resulting changes.
+making any fixes or modifications as necessary, and finally pushing
+the resulting changes.
 
 1. Go to `<your username>.github.io/<your forked branch's name>` to view your resume as GitHub displays it.
 2. Proofread the resume, noting any issues you have with it.
@@ -106,7 +106,7 @@ document. Using the steps outlined in this document as a general guide for the
 *flow* of using different templates would be a good starting point, though.
 
 ### **Can I still make use of `markdown-cv` without forking it? I don't want GitHub to prominently display the original repo to others who are looking at my resume.**  
-While yout absolutely can make use of `markdown-cv` without forking it on
+While you absolutely can make use of `markdown-cv` without forking it on
 GitHub, you'll still want to credit the original work somewhere. In this case,
 consider adding an acknowledgment in your `README` file. Also, note that
 because `markdown-cv` uses the MIT license, you'll also have to make your repo
