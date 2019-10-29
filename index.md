@@ -89,7 +89,7 @@ reactive, and automated data scraper to a serverless architecture.*
 deployment program;  
 - • Thoroughly researched, tested, and reported on a variety of
   architecture diagramming  tools for company-wide use;  
-- • Diagrammed top- • and low-level views of the serverless architecture
+- • Diagrammed top- and low-level views of the serverless architecture
   being built
 
 ## VOLUNTEER EXPERIENCE
