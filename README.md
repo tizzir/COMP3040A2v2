@@ -1,5 +1,4 @@
 # Hosting your resume online using GitHub Pages
-## And how to keep it looking decent
 
 Hosting your resume online is a great option if you're looking to share your
 credentials quickly and to a large audience, while also saving paper. This
