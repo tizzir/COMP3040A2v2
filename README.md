@@ -121,20 +121,10 @@ and push all of the files to a new repo you create.
 
 This guide is just the tip of the iceberg when it comes to hosting your resume
 or other documents online. If you're interested in digging deeper into the
-systems at play in this guide, consider looking at some of the resources below.
+systems at play in this guide, consider looking at some of the technologies
+below.
 
-- [Jekyll](https://jekyllrb.com/)  
-    Jekyll is the software the GitHub pages uses to display plain old Markdown
-    files as aesthetically-pleasing static sites. Jekyll can be used locally to
-    help preview changes as you make them.
-- [Sphinx](http://www.sphinx-doc.org/en/master/) and [ReStructuredText][(https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html)  
-    Sphinx is a static site generator designed for displaying documentation and
-    other text files in a nice format, like Jekyll. Sphinx, however, works with
-    the ReStructuredText standard instead of Markdown. If you're interested in
-    alternatives to what was used in this guide, it might be worth it to check
-    out these technologies.
-   
-| | |
+| Technology | Description |
 | -- | -- |
 | [Jekyll](https://jekyllrb.com/) | Jekyll is the software the GitHub pages uses to display plain old Markdown files as aesthetically-pleasing static sites. Jekyll can be used locally to help preview changes as you make them. |
 | [Sphinx](http://www.sphinx-doc.org/en/master/) and [ReStructuredText][(https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) | Sphinx is a static site generator designed for displaying documentation and other text files in a nice format, like Jekyll. Sphinx, however, works with the ReStructuredText standard instead of Markdown. If you're interested in alternatives to what was used in this guide, it might be worth it to check out these technologies. |
