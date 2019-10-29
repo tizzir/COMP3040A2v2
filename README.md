@@ -8,8 +8,9 @@ the process.
 
  > This guide is intended for audiences who are already familiar with Markdown
  > and Git. If you find that some of this guide is going over your head, you
- > might want to check out some info on [Git]() and [Markdown]().
- > 
+ > might want to check out some info on
+ > [Git](https://rogerdudler.github.io/git-guide/) and
+ > [Markdown](https://www.markdownguide.org/).
 
 ## Prerequisites
 
@@ -126,7 +127,7 @@ below.
 | Technology | Description |
 | -- | -- |
 | [Jekyll](https://jekyllrb.com/) | Jekyll is the software the GitHub pages uses to display plain old Markdown files as aesthetically-pleasing static sites. Jekyll can be used locally to help preview changes as you make them. |
-| [Sphinx](http://www.sphinx-doc.org/en/master/) and [ReStructuredText][(https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) | Sphinx is a static site generator designed for displaying documentation and other text files in a nice format, like Jekyll. Sphinx, however, works with the ReStructuredText standard instead of Markdown. If you're interested in alternatives to what was used in this guide, it might be worth it to check out these technologies. |
+| [Sphinx](http://www.sphinx-doc.org/en/master/) and [ReStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) | Sphinx is a static site generator designed for displaying documentation and other text files in a nice format, like Jekyll. Sphinx, however, works with the ReStructuredText standard instead of Markdown. If you're interested in alternatives to what was used in this guide, it might be worth it to check out these technologies. |
 
 ## License
 
