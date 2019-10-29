@@ -46,7 +46,7 @@ title: Matthew Spelchak's Resume
 ## WORK EXPERIENCE
 
 ### **SOFTWARE DEVELOPER**  
-`MAY 2019 - AUGUST 2019`
+`MAY 2019 - AUG 2019`
 *Priceline Partner Network*
 
 *Using modern and proven web frameworks, designed and maintained
@@ -78,7 +78,7 @@ performance and reliability.*
   environments  and the systems in use
 
 ### **SOFWARE DEVELOPER**  
-`SEPTEMBER 2018  - DECEMBER 2018`
+`SEPT 2018  - DEC 2018`
 *Invenia Technical Computing Corporation*  
 
 *Utilizing various AWS services, migrated an existing high-volume,
@@ -95,7 +95,7 @@ deployment program;
 ## VOLUNTEER EXPERIENCE
 
 ### **COORDINATOR AND PANEL MODERATOR**
-`APRIL 2015`
+`APR 2015`
 *Feminist Focus Conference*
 
 - • Carried conference ideas from brainstorming phase to execution;  
